@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="I want Pizza:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/I_want_Pizza_jar</output-path>
+    <root id="archive" name="I want Pizza.jar">
+      <element id="module-output" name="I want Pizza" />
+    </root>
+  </artifact>
+</component>
